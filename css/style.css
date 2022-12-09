@@ -208,16 +208,16 @@ iframe {
 ------------------------------- */
 @media (max-width: 600px) {
     .page-title {
-        font-size: 1rem;
+        font-size: 10px;
     }
     
     header {
         display: block;
-        margin-left: 10px;
+        margin-left: 9px;
     }
     
     .main-nav {
-        font-size: 20px;
+        font-size: 12px;
         margin-top: 10px;
     }
     .main-nav li {
